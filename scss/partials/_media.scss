@@ -100,4 +100,16 @@
         margin-left: 40px;
         display: block;
     }
+
+    footer{
+        .logos-redes{
+            width: 30%;
+            min-width: 300px;
+            div{
+                width: 60px;
+                height: 60px;
+            }
+        }
+    }
+
 }
